@@ -1,6 +1,6 @@
 ********************************************************************************************************************
 
-                                           SED & Curl COMMAND EXAMPLES
+                                           SED COMMAND EXAMPLES
 
 ********************************************************************************************************************
 
@@ -52,6 +52,3 @@ replace a string at a specific line
 
 sed -i '34s/AAA/BBB/' file_name
 
-use curl to download 
-
-great commands
